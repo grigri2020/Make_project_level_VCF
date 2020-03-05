@@ -20,4 +20,4 @@ INFO
 FORMAT
 "Sample info with genotype represented in FORMAT"
 This does not work on multiallelic sites.
-It has been tested on 10 VCF files and runs just fine.
+It has been tested 
